@@ -43,7 +43,7 @@ h1, h2, h3 {
 # ==========================================
 
 model = joblib.load(
-    "D:\\customer-churn-ai\\models\\xgboost.pkl"
+    "models/xgboost.pkl"
 )
 
 # ==========================================
